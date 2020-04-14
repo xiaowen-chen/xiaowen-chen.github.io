@@ -15,3 +15,5 @@ baseurl:          /
 author:
   name:           'Xiaowen Chen'
   url:            https://google.com
+
+theme: jekyll-theme-minimal
