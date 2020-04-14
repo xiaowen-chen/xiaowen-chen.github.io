@@ -8,9 +8,6 @@ I am a PhD candidate in Physics at Princeton University working on topics in the
 
 You can contact me via [email](mailto:xiaowenc@princeton.edu).
 
-### News
 
-- [test ...]
-{:.horn}
 
 
