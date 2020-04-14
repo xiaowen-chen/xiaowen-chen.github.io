@@ -14,7 +14,5 @@ Research experience through a bachelor thesis with [Adilson E. Motter](http://dy
 
 #### Honors and Awards
 
-2015: Joseph Henry Prize, Princeton University
-
-2015: Thesis prize, Northwestern University
+[In progress ...]
 
