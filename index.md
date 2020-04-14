@@ -10,9 +10,9 @@ In my PhD work, I closely collaborate with other members of the [Center for the 
 
 You can contact me via [email](mailto:xiaowenc@princeton.edu), or at
 
-Jadwin Hall, Washington Road
-Joseph Henry Laboratories
-Princeton University
+Jadwin Hall, Washington Road  
+Joseph Henry Laboratories  
+Princeton University  
 Princeton, NJ, 08544
 
 
