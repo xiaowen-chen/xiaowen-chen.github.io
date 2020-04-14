@@ -30,23 +30,23 @@ ul.horn li::before {
     margin-left: -1.5em;
 }
 
-.theme-andim .content {
+.theme-cxw .content {
   padding-top:    1.5rem;
   padding-bottom: 1.5rem;
 }
-.theme-andim .content a,
-.theme-andim .related-posts li a:hover {
-  color: #6a9fb5;
+.theme-cxw .content a,
+.theme-cxw .related-posts li a:hover {
+  color: #d28445;
 }
 
 /* Sidebar nav */
-.theme-andim .sidebar {
-  background-color: #2d314d;
+.theme-cxw .sidebar {
+  background-color: #d28445;
   padding: 0.25rem 0.5rem;
   color: #ccddcc;
 }
 @media (min-width: 48em) {
-  .theme-andim .sidebar {
+  .theme-cxw .sidebar {
     padding: 2rem 1rem;
   }
 }
