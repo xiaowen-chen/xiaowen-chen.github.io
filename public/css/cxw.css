@@ -36,12 +36,12 @@ ul.horn li::before {
 }
 .theme-cxw .content a,
 .theme-cxw .related-posts li a:hover {
-  color: #3aafa9;
+  color: #d28445;
 }
 
 /* Sidebar nav */
 .theme-cxw .sidebar {
-  background-color: #17252a;
+  background-color: #d28445;
   padding: 0.25rem 0.5rem;
   color: #ccddcc;
 }
