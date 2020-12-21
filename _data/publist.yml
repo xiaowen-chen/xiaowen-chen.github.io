@@ -1,4 +1,19 @@
-- authors: X Chen, F Randi, AM Leifer, W Bialek
+- authors: X Chen
+  title: Statistical physics approaches to collective behavior in networks of neurons
+  journal: PhD thesis
+  year: 2020
+  links:
+      doi: https://physics.princeton.edu//archives/theses/lib/upload/chen_xiaowen_thesis.pdf
+
+
+- authors: X Chen, W Bialek
+  title: Searching for long time scales without fine tuning
+  journal: arXiv preprint
+  year: 2020
+  links:
+      doi: https://arxiv.org/abs/2008.11674
+
+-authors: X Chen, F Randi, AM Leifer, W Bialek
   title: Searching for collective behavior in a small brain
   journal: PRE
   year: 2019
