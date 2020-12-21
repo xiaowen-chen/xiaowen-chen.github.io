@@ -5,7 +5,7 @@ order: 4
 ---
 #### Since 10/2020 -- Postdoctoral researcher, LPENS, CNRS
 
-Working on modeling social behavior of animals in the [Statistical Biophysics Group] (https://sites.google.com/view/statbiophysens) led by Aleksandra Walczak and Thierry Mora.
+Working on modeling social behavior of animals in the [Statistical Biophysics Group](https://sites.google.com/view/statbiophysens) led by Aleksandra Walczak and Thierry Mora.
 
 #### 09/2015 -- 09/2020 PhD in Physics, Princeton University
 
