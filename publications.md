@@ -18,3 +18,4 @@ order: 3
 
 {% endfor %}
 
+* equal first author contribution, ** equal last author contribution
