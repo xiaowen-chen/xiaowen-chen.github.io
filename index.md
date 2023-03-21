@@ -15,6 +15,12 @@ You can contact me via email at
 firstname.lastname@phys.ens.fr
 
 
+News: 
+
+- Apr 17-21, 2023: I will give a talk at Interchall2023, i.e. a conference on "Interdisciplianry Challenges: from non0equilibrium physics to life" in Rome.
+- Mar 30-31, 2023: I will talk about statistical inference methods for collective dynamics, and application in social mice, in [Journées Interdisciplinaires de Physique Statistique](https://sites.google.com/view/lptms-jips/home) in LPTMS.
+- Mar 16, 2023: Our new paper on adapting Granger causality analysis to calcium signals in neuronal systems is published on eLife!
+- Nov 25, 2022: We organized [Paris Biological Physics Community Day](https://www.phys.ens.fr/parisyoung/2022.html), a conference organized by and for PhD students and Postdocs.
 
 [Last updated: March 21, 2023]
 
