@@ -20,12 +20,11 @@ By adding hidden variables and integrating their state out, we are able to write
 As a case study, we are applying the above method to analyze the collective dynamics for social interaction in groups of mice. Collaborating with experimentalists in the group of Ewelina Knapska in Nencki Institute in Poland, we analyze co-localization patterns for groups of mice, placed in well-controlled and ecologically-relevant experimental environment.  Mice is known to be a good model for social interaction, and also can be tuned genetically. 
 The data shows features of collectiveness, but also a striking power-law like decay of correlation, which we are able to produce with our dynamical model. We show that both interaction with peers and the memory of individual animals are essential in reproducing the observed patterns. 
 
-
-## Past projects:
-
 ### Collective dynamics and information transfer in groups of neurons in zebrafish 
 
 In neuronal systems, the dynamics for a group of interconnected neurons arises from the combination of common stimuli, synaptic connections among neurons, and feedback from the environment. How to separate out each component and understand how information transfers through the neurons from stimulus to behavior? Collaborating with Claire Wyart’s group in Institut du Cerveau, we are analyzing neuronal activities in zebrafish embryo, where the zebrafish is stimulated by light patterns and invokes tail beating. We will use ideas such as Granger causality to understand the information flow. 
+
+## Past projects:
 
 ### Inferring maximum entropy models for interacting neurons in C. elegans
 
