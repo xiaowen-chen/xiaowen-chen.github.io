@@ -15,12 +15,15 @@ firstname.lastname@phys.ens.fr
 
 News: 
 
-- Apr 22-26, 2024: We are organizing ["Interdisciplinary challenges in non-equilibrium physics: from soft to active, biological and complex matter"](https://www.pks.mpg.de/intcha24) in MPI PKS-Dresden. 
+- Apr 22-26, 2024: We are organizing ["Interdisciplinary challenges in non-equilibrium physics: from soft to active, biological and complex matter"](https://www.pks.mpg.de/intcha24) in MPI PKS-Dresden.
+- Dec 20, 2023: Our new [paper](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.13.041053) on Generalized Glauber dynamics as a novel inference method for collective dynamics (and the steady state distribution!) is published on PRX!
+- Aug 3-5, 2023: I will give an invited talk at StatPhys28 Satellite Meeting in Hong Kong.
+- Jul 26, 2023: Our [new preprint](https://www.biorxiv.org/content/10.1101/2023.07.26.550619v1) on collective behavior in social mice is on bioRxiv!
 - Apr 17-21, 2023: I will give a talk at Interchall2023, i.e. a conference on "Interdisciplianry Challenges: from non-equilibrium physics to life" in Rome.
 - Mar 30-31, 2023: I will talk about statistical inference methods for collective dynamics, and application in social mice, in [Journées Interdisciplinaires de Physique Statistique](https://sites.google.com/view/lptms-jips/home) in LPTMS.
 - Mar 16, 2023: Our new paper on adapting Granger causality analysis to calcium signals in neuronal systems is published on eLife!
 - Nov 25, 2022: We organized [Paris Biological Physics Community Day](https://www.phys.ens.fr/parisyoung/2022.html), a conference organized by and for PhD students and Postdocs.
 
-[Last updated: March 21, 2023]
+[Last updated: April 4, 2024]
 
 
