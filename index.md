@@ -21,7 +21,7 @@ News:
 - Jul 26, 2023: Our [new preprint](https://www.biorxiv.org/content/10.1101/2023.07.26.550619v1) on collective behavior in social mice is on bioRxiv!
 - Apr 17-21, 2023: I will give a talk at Interchall2023, i.e. a conference on "Interdisciplianry Challenges: from non-equilibrium physics to life" in Rome.
 - Mar 30-31, 2023: I will talk about statistical inference methods for collective dynamics, and application in social mice, in [Journées Interdisciplinaires de Physique Statistique](https://sites.google.com/view/lptms-jips/home) in LPTMS.
-- Mar 16, 2023: Our new paper on adapting Granger causality analysis to calcium signals in neuronal systems is published on eLife!
+- Mar 16, 2023: Our [new paper](https://elifesciences.org/articles/81279) on adapting Granger causality analysis to calcium signals in neuronal systems is published on eLife!
 - Nov 25, 2022: We organized [Paris Biological Physics Community Day](https://www.phys.ens.fr/parisyoung/2022.html), a conference organized by and for PhD students and Postdocs.
 
 [Last updated: April 4, 2024]
