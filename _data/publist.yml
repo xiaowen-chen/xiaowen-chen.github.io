@@ -1,16 +1,23 @@
+- authors: X Chen, M Winiarski, A Puscian, E Knapska, T Mora, AM Walczak
+  title: Modelling collective behavior in groups of mice housed under semi-naturalistic conditions
+  journal: submitted (preprint on bioRxiv)
+  year: 2023
+  links: 
+      doi: https://www.biorxiv.org/content/10.1101/2023.07.26.550619v1.abstract
+
 - authors: X Chen, M Winiarski, A Puscian, E Knapska, AM Walczak, T Mora
   title: Generalized Glauber dynamics for inference in biology
-  journal: arXiv preprint (submitted)
-  year: 2022
+  journal: Physical Review X
+  year: 2023
   links: 
-      doi: https://doi.org/10.48550/arXiv.2208.03483
+      doi: https://journals.aps.org/prx/abstract/10.1103/PhysRevX.13.041053
 
 - authors: X Chen\*, F Ginoux\*, T Mora, AM Walczak, C Wyart
   title: Granger causality analysis for calcium transients in neuronal networks, challengs and improvements
-  journal: bioRxiv preprint (submitted)
-  year: 2022
+  journal: eLife
+  year: 2023
   links:
-      doi: https://doi.org/10.1101/2022.06.27.497721
+      doi: https://elifesciences.org/articles/81279
 
 - authors: ED Lee, X Chen, BC Daniels
   title: Discovering sparse control strategies in neural activity
