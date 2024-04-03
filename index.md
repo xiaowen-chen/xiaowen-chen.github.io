@@ -15,7 +15,7 @@ firstname.lastname@phys.ens.fr
 
 News: 
 
-- Apr 22-26, 2024: We are organizing ["Interdisciplinary challenges in non-equilibrium physics: from soft to active, biological and complex matter"](https://www.pks.mpg.de/intcha24) in MPI PKS-Dresden.
+- Apr 22-26, 2024: We are organizing ["Interdisciplinary challenges in non-equilibrium physics: from soft to active, biological and complex matter"](https://www.pks.mpg.de/intcha24) International Workshop in MPI PKS-Dresden. Come join as in the workshop by early-career researchers for early-career researchers!
 - Dec 20, 2023: Our new [paper](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.13.041053) on Generalized Glauber dynamics as a novel inference method for collective dynamics (and the steady state distribution!) is published on PRX!
 - Aug 3-5, 2023: I will give an invited talk at StatPhys28 Satellite Meeting in Hong Kong.
 - Jul 26, 2023: Our [new preprint](https://www.biorxiv.org/content/10.1101/2023.07.26.550619v1) on collective behavior in social mice is on bioRxiv!
