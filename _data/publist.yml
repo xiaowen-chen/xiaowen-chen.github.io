@@ -1,3 +1,17 @@
+- authors: X Chen, K Crocker, S Kuehn, AM Walczak, T Mora
+  title: Inferring resource competition in microbial communities from time series
+  journal: submitted (preprint on arXiv)
+  year: 2025
+  links: 
+      doi: https://arxiv.org/pdf/2501.04520
+
+- authors: X Chen, W Bialek
+  title: Searching for long time scales without fine tuning
+  journal: Physical Review E
+  year: 2024
+  links:
+      doi: https://doi.org/10.1103/PhysRevE.110.034407
+
 - authors: X Chen, M Winiarski, A Puscian, E Knapska, T Mora, AM Walczak
   title: Modelling collective behavior in groups of mice housed under semi-naturalistic conditions
   journal: submitted (preprint on bioRxiv)
@@ -34,14 +48,7 @@
   year: 2020
   links:
       doi: https://physics.princeton.edu//archives/theses/lib/upload/chen_xiaowen_thesis.pdf
-
-
-- authors: X Chen, W Bialek
-  title: Searching for long time scales without fine tuning
-  journal: arXiv preprint (submitted)
-  year: 2020
-  links:
-      doi: https://arxiv.org/abs/2008.11674
+      
 
 - authors: X Chen, F Randi, AM Leifer, W Bialek
   title: Searching for collective behavior in a small brain
